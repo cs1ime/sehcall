@@ -1,4 +1,4 @@
-## Windows X64 Use seh in manual map dll or manual map sys
+## Windows X64 mode use seh in manual map dll or manual map sys
 
 ## 在手动映射dll或手动映射sys中使用seh
 
