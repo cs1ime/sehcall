@@ -27,7 +27,7 @@ namespace sd {
 #define sd_iscmap(m,p)(m[p]==1)
 	__forceinline int sd_convert(const char *pattern, unsigned short *pat) {
 		int len = strlen(pattern);
-
+		//https://github.com/cs1ime
 		char val[3];
 		val[2] = 0;
 
